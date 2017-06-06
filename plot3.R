@@ -16,4 +16,5 @@ legend("topright"
        , lty=c(1,1)
        , bty="n"
        , cex=.5
-       , col=c("black", "red", "blue"))png("plot3.png", width=480, height=480)
+       , col=c("black", "red", "blue"))
+png("plot3.png", width=480, height=480)
